@@ -1,4 +1,4 @@
-## Simple, bare-bones version of  CarlyB
+## carlyA
 
 import random
 
